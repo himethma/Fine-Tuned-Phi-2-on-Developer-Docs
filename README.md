@@ -41,8 +41,8 @@ Rapid prototyping for code examples
 Instruction-based code generation
 
 ## Resources
-Base Model: microsoft/phi-2
-Training Dataset: kotzeje/lamini_docs
+Base Model: microsoft/phi-2 <br>
+Training Dataset: kotzeje/lamini_docs <br>
 🤗 https://huggingface.co/Himethma/phi-2-lamini-docs
 
 ## 📄 License
